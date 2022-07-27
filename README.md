@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/warraichay" target="blank"><img src="https://img.shields.io/twitter/follow/warraichay?logo=twitter&style=for-the-badge" alt="warraichay" /></a> </p>
 
-- 🔭 I’m currently working on **Quiz App**
+- 🔭 I’m currently working on **ReactJS**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://alizwarraich.github.io/myportfolio/Portfolio%20Website/portfolio/](https://alizwarraich.github.io/myportfolio/Portfolio%20Website/portfolio/)
+- 👨‍💻 Portfolio: [https://alizwarraich.github.io/myportfolio/Portfolio%20Website/portfolio/](https://alizwarraich.github.io/myportfolio/Portfolio%20Website/portfolio/)
 
 - 💬 Ask me about **football, esports, react-native**
 
-- 📫 How to reach me **alizwarraich@gmail.com**
+- 📫 Reach me at **alizwarraich@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fOWBuQTybi2TuQXMD3YZvueBqfRU5aZ5/view?usp=sharing](https://drive.google.com/file/d/1fOWBuQTybi2TuQXMD3YZvueBqfRU5aZ5/view?usp=sharing)
+- 📄 Resume: [https://drive.google.com/file/d/1fOWBuQTybi2TuQXMD3YZvueBqfRU5aZ5/view?usp=sharing](https://drive.google.com/file/d/1fOWBuQTybi2TuQXMD3YZvueBqfRU5aZ5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
