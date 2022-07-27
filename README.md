@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alizwarraich&label=Profile%20views&color=0e75b6&style=flat" alt="alizwarraich" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alizwarraich" alt="alizwarraich" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/warraichay" target="blank"><img src="https://img.shields.io/twitter/follow/warraichay?logo=twitter&style=for-the-badge" alt="warraichay" /></a> </p>
 
 - 🔭 I’m currently working on **Quiz App**
