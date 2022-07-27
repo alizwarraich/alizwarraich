@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif)](https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif)
+[![MasterHead](https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif)](https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif)
 <h1 align="center">Hi 👋, I'm Ali Warraich</h1>
 <h3 align="center">A passionate Software Developer from 🇵🇰</h3>
 
