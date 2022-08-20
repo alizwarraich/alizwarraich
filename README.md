@@ -1,4 +1,4 @@
-[![MasterHead](https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif)](https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif)
+<!-- [![MasterHead](https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif)](https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif) -->
 <h1 align="center">Hi 👋, I'm Ali Warraich</h1>
 <h3 align="center">A passionate Software Developer from 🇵🇰</h3>
 
