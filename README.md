@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/warraichay" target="blank"><img src="https://img.shields.io/twitter/follow/warraichay?logo=twitter&style=for-the-badge" alt="warraichay" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **NodeJS**
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 Portfolio: [https://alizwarraich.github.io/myportfolio/Portfolio%20Website/portfolio/](https://alizwarraich.github.io/myportfolio/Portfolio%20Website/portfolio/)
 
-- 💬 Ask me about **football, esports, react-native**
+- 💬 Ask me about **football, esports, react, react-native**
 
 - 📫 Reach me at **alizwarraich@gmail.com**
 
