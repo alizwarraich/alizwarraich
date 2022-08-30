@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 Portfolio: [https://alizwarraich.github.io/myportfolio/Portfolio%20Website/portfolio/](https://alizwarraich.github.io/myportfolio/Portfolio%20Website/portfolio/)
+- 👨‍💻 Portfolio: [https://alizwarraich.github.io/myportfolio/](https://alizwarraich.github.io/myportfolio/)
 
 - 💬 Ask me about **football, esports, react, react-native**
 
