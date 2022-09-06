@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/warraichay" target="blank"><img src="https://img.shields.io/twitter/follow/warraichay?logo=twitter&style=for-the-badge" alt="warraichay" /></a> </p>
 
-- 🔭 I’m currently working on **NodeJS**
+- 🔭 I’m currently working on **NodeJS and Express**
 
 - 🌱 I’m currently learning **MERN Stack**
 
