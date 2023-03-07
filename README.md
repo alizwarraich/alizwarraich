@@ -10,7 +10,7 @@
 
 - I’m currently working on a **Digital Healthcare Platform** for my final year project
 
-- I’m cusing **MERN Stack**
+- I’m using **MERN Stack**
 
 - Portfolio: [https://alizwarraich.github.io/myportfolio/](https://alizwarraich.github.io/myportfolio/)
 
