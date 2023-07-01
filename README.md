@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/warraichay" target="blank"><img src="https://img.shields.io/twitter/follow/warraichay?logo=twitter&style=for-the-badge" alt="warraichay" /></a> </p>
 
-- I’m currently working on a **Digital Healthcare Platform** for my final year project
+- I have developed a **Digital Healthcare Platform** as my Final Year Project
 
 - I’m using **MERN Stack**
 
-- Portfolio: [https://alizwarraich.github.io/myportfolio/](https://alizwarraich.github.io/myportfolio/)
+- Final Year Project: [https://medxcure-client.herokuapp.com/](https://medxcure-client.herokuapp.com/)
 
 - Ask me about **Football, Esports, Web development**
 
 - Reach me at **alizwarraich@gmail.com**
 
-- Resume: [https://drive.google.com/file/d/1fOWBuQTybi2TuQXMD3YZvueBqfRU5aZ5/view?usp=sharing](https://drive.google.com/file/d/1fOWBuQTybi2TuQXMD3YZvueBqfRU5aZ5/view?usp=sharing)
+- Resume: [https://drive.google.com/file/d/15_jnSCZCrtlqdX4dXBzPQppa7WBuctEm/view?usp=sharing](https://drive.google.com/file/d/15_jnSCZCrtlqdX4dXBzPQppa7WBuctEm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
