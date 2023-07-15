@@ -12,7 +12,7 @@
 
 - I’m using **MERN Stack**
 
-- Final Year Project: [https://medxcure-client.herokuapp.com/](https://medxcure-client.herokuapp.com/)
+- Final Year Project: [https://cdc.cuiwah.edu.pk/Event/Project/5564](https://cdc.cuiwah.edu.pk/Event/Project/5564)
 
 - Ask me about **Football, Esports, Web development**
 
