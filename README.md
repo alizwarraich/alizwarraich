@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/warraichay" target="blank"><img src="https://img.shields.io/twitter/follow/warraichay?logo=twitter&style=for-the-badge" alt="warraichay" /></a> </p>
 
-- I have developed a **Digital Healthcare Platform** as my Final Year Project
+- I am working as a Freelance Developer on **Upwork**
 
 - I’m using **MERN Stack**
 
