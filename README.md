@@ -2,13 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ali Zulqarnain</h1>
 <h3 align="center">A Full Stack Software Developer working Remotely</h3>
 
-- I am working as a Freelance Developer on **Upwork**
+- I use **Javascript/Typescript**
 
-- I’m using **MERN Stack**
-
-- Final Year Project: [https://cdc.cuiwah.edu.pk/Event/Project/5564](https://cdc.cuiwah.edu.pk/Event/Project/5564)
-
-- Ask me about **Football, Esports, Web development**
+- Ask me about **Football, Esports, Custom Software Development**
 
 - Reach me at **alizwarraich@gmail.com**
 
