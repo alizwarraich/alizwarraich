@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif)](https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif) -->
 <h1 align="center">Hi 👋, I'm Ali Zulqarnain</h1>
-<h3 align="center">A Full Stack Software Developer working Remotely</h3>
+<h3 align="center">A Full Stack Software Developer working remotely</h3>
 
 - I use **Javascript/Typescript**
 
