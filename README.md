@@ -4,8 +4,6 @@
 
 - I use **Javascript/Typescript**
 
-- Ask me about **Football, Esports, Custom Software Development**
-
 - Reach me at **alizwarraich@gmail.com**
 
 - Resume: [https://drive.google.com/file/d/123dfWWeP7w9gdzslW_UONEKznpBNMz_i/view?usp=sharing](https://drive.google.com/file/d/123dfWWeP7w9gdzslW_UONEKznpBNMz_i/view?usp=sharing)
